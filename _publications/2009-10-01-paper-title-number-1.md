@@ -1,14 +1,9 @@
 ---
-title: "Paper Title Number 1"
-collection: publications
-category: manuscripts
+title: " Analysis and Design of Efficient Authentication Techniques for Password Entry with the Qwerty Keyboard for VR Environments"
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+excerpt: 'Abstract: Authentication in digital security relies heavily on text-based passwords, even with other available methods like biometrics and graphical passwords. While virtual reality (VR) keyboards are typically invisible to onlookers, the presence of inconspicuous sensors, including accelerometers, gyroscopes, and barometers, poses a potential risk of unauthorized observation and recording. Traditional defense shoulder-surfing attack methods typically involve breaking apart the Qwerty layout, which destroys the user's inherent familiarity with the layout. This research addresses the need for secure password entry in VR environments while retaining the Qwerty layout. We explore three keyboard-related position alteration strategies to ensure security while mitigating the decline in user experience. These strategies involve moving the entire keyboard, cursor, and keys. Our theoretical study assesses the effectiveness of these strategies against shoulder-surfing attacks. Two user studies, employing ray-based and position-based text entry methods, respectively, evaluate the practical effectiveness of the three strategies in resisting shoulder-surfing attacks, as well as their impact on typing performance and user experience. Our findings demonstrate that the three strategies achieve shoulder-surfing attack resistance comparable to a random layout keyboard. Moreover, compared to a random layout, the two strategies involving the movement of the entire keyboard and the repositioning of keys support faster entry rates and enhanced user experience.'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'T. Wan, L. Zhang, Y. Xu, Z. Guo, B. Gao and H. -N. Liang, "Analysis and Design of Efficient Authentication Techniques for Password Entry with the Qwerty Keyboard for VR Environments," in IEEE Transactions on Visualization and Computer Graphics, vol. 30, no. 11, pp. 7075-7085, Nov. 2024, doi: 10.1109/TVCG.2024.3456195.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
