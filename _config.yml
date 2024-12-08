@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-    employer         : "Xi'an Jiaotong-Liverpool University"
+  employer         : "Xi'an Jiaotong-Liverpool University"
   uri              : # URL
   email            : "Yunxin.Xu21@student.xjtlu.edu.cn" 
 
@@ -36,7 +36,7 @@ author:
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : 
+  pubmed           : #
   researchgate     : # URL
   scopus           : # URL
 
