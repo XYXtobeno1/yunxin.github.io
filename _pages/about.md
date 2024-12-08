@@ -11,17 +11,22 @@ Hello, I am Yunxin Xu, currently pursuing a degree in Digital Media Technology a
 
 Publications
 ------
-(TVCG2024) T. Wan, L. Zhang, *Yunxin Xu*, Z. Guo, B. Gao and H.-N. Liang, "Analysis and Design of Efficient Authentication Techniques for Password Entry with the Qwerty Keyboard for VR Environments," _in IEEE Transactions on Visualization and Computer Graphics_, [doi: 10.1109/TVCG.2024.3456195]("https://ieeexplore.ieee.org/document/10670490")
+[TVCG2024] T. Wan, L. Zhang, **Yunxin Xu**, Z. Guo, B. Gao and H.-N. Liang, "Analysis and Design of Efficient Authentication Techniques for Password Entry with the Qwerty Keyboard for VR Environments," _in IEEE Transactions on Visualization and Computer Graphics_, [doi: 10.1109/TVCG.2024.3456195](https://ieeexplore.ieee.org/document/10670490)
 
-(ISMAR2024) T. Wan, L. Zhang, *Yunxin Xu*, K. Atkinson, L. Yu, and H.-N. Liang, "Design and Evaluation of Controller-based Raycasting Methods for Secure and Efficient Text Entry in Virtual Reality," _in IEEE International Symposium on Mixed and Augmented Reality_, [doi: 10.1109/ISMAR62088.2024.00049]("https://ieeexplore.ieee.org/abstract/document/10765421")
+[ISMAR2024] T. Wan, L. Zhang, **Yunxin Xu**, K. Atkinson, L. Yu, and H.-N. Liang, "Design and Evaluation of Controller-based Raycasting Methods for Secure and Efficient Text Entry in Virtual Reality," _in IEEE International Symposium on Mixed and Augmented Reality_, [doi: 10.1109/ISMAR62088.2024.00049](https://ieeexplore.ieee.org/abstract/document/10765421)
 
 Project Experiences
 ------
 Digital Twin-based Intelligent Building Management System
+
 Analysis and Design of Efficient Authentication Techniques for Password Entry with the Qwerty Keyboard for VR Environments
+
 Design and Evaluation of Controller-based Raycasting Methods for Secure and Efficient Text Entry in Virtual Reality
+
 Multimedia-Based Stroke Rehabilitation Methods
+
 Impact of the Presence of Real Objects on Egocentric Distance Perception in Virtual Reality
+
 
 About My Major
 ------
