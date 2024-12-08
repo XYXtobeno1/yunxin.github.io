@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am Yunxin Xu, currently pursuing a degree in Digital Media Technology at Xi'an Jiaotong-Liverpool University, with a focus on Human-Computer Interaction (HCI) in Virtual Reality (VR) advised by [Prof. Hai-Ning Liang](https://cma.hkust-gz.edu.cn/faculty-regular/hai-ning-liang/). In addition to my research achievements, this website serves as a platform where I share my course notes, project showcases, and involvement in extracurricular activities. It represents not only my personal space but also a reflection of my diverse interests and ongoing exploration in the field of technology. If you are interested in virtual reality and human-computer interaction, I welcome the opportunity for discussion and collaboration. [CV]
+Hello, I am Yunxin Xu, currently pursuing a degree in Digital Media Technology at Xi'an Jiaotong-Liverpool University, with a focus on Human-Computer Interaction (HCI) in Virtual Reality (VR) advised by [Prof. Hai-Ning Liang](https://cma.hkust-gz.edu.cn/faculty-regular/hai-ning-liang/). In addition to my research achievements, this website serves as a platform where I share my course, project showcases, and involvement in extracurricular activities (in the future). It represents not only my personal space but also a reflection of my diverse interests and ongoing exploration in the field of technology. If you are interested in virtual reality and human-computer interaction, I welcome the opportunity for discussion and collaboration.    [CV](files/cv.pdf)
 
 Publications
 ------
@@ -19,11 +19,11 @@ Project Experiences
 ------
 Digital Twin-based Intelligent Building Management System
 
-Analysis and Design of Efficient Authentication Techniques for Password Entry with the Qwerty Keyboard for VR Environments [PDF](files/Analysis_and_Design_of_Efficient_Authentication_Techniques_for_Password_Entry_with_the_Qwerty_Keyboard_for_VR_Environments.pdf)
+Analysis and Design of Efficient Authentication Techniques for Password Entry with the Qwerty Keyboard for VR Environments    [PDF](files/Analysis_and_Design_of_Efficient_Authentication_Techniques_for_Password_Entry_with_the_Qwerty_Keyboard_for_VR_Environments.pdf)
 
-Design and Evaluation of Controller-based Raycasting Methods for Secure and Efficient Text Entry in Virtual Reality [PDF](Design_and_Evaluation_of_Controller-based_Raycasting_Methods_for_Secure_and_Efficient_Text_Entry_in_Virtual_Reality.pdf)
+Design and Evaluation of Controller-based Raycasting Methods for Secure and Efficient Text Entry in Virtual Reality    [PDF](Design_and_Evaluation_of_Controller-based_Raycasting_Methods_for_Secure_and_Efficient_Text_Entry_in_Virtual_Reality.pdf)
 
-Multimedia-Based Stroke Rehabilitation Methods
+Multimedia-Based Stroke Rehabilitation Methods    [PDF](MEC202.pdf)
 
 Impact of the Presence of Real Objects on Egocentric Distance Perception in Virtual Reality
 
