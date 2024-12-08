@@ -23,7 +23,7 @@ Analysis and Design of Efficient Authentication Techniques for Password Entry wi
 
 Design and Evaluation of Controller-based Raycasting Methods for Secure and Efficient Text Entry in Virtual Reality    [PDF](Design_and_Evaluation_of_Controller-based_Raycasting_Methods_for_Secure_and_Efficient_Text_Entry_in_Virtual_Reality.pdf)
 
-Multimedia-Based Stroke Rehabilitation Methods    [PDF](MEC202.pdf)
+Multimedia-Based Stroke Rehabilitation Methods    [PDF](files/MEC202.pdf)
 
 Impact of the Presence of Real Objects on Egocentric Distance Perception in Virtual Reality
 
