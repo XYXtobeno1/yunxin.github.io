@@ -21,7 +21,7 @@ Digital Twin-based Intelligent Building Management System
 
 Analysis and Design of Efficient Authentication Techniques for Password Entry with the Qwerty Keyboard for VR Environments    [[PDF]](files/Analysis_and_Design_of_Efficient_Authentication_Techniques_for_Password_Entry_with_the_Qwerty_Keyboard_for_VR_Environments.pdf)
 
-Design and Evaluation of Controller-based Raycasting Methods for Secure and Efficient Text Entry in Virtual Reality    [[PDF]](Design_and_Evaluation_of_Controller-based_Raycasting_Methods_for_Secure_and_Efficient_Text_Entry_in_Virtual_Reality.pdf)  [[Vedio]](files/freecompress-contentsecurity.mp4)
+Design and Evaluation of Controller-based Raycasting Methods for Secure and Efficient Text Entry in Virtual Reality    [[PDF]](Design_and_Evaluation_of_Controller-based_Raycasting_Methods_for_Secure_and_Efficient_Text_Entry_in_Virtual_Reality.pdf)  [[Video]](files/freecompress-contentsecurity.mp4)
 
 Multimedia-Based Stroke Rehabilitation Methods    [[PDF]](files/MEC202.pdf)
 
